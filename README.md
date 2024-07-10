@@ -4,7 +4,7 @@ A simple little batch-operation python UI wrapper for [OpenRevolution](https://g
 
 It's set to run in Open Revolution in Windows 8 compatibility mode, as suggested by ic-scm.
 
-To convert the other way [[WAV->BWAV]]([url](https://github.com/Definitely-Not-Lye/FullAutoWAV-to-BWAV)), use this other thing
+To convert the other way [[WAV->BWAV]](https://github.com/Definitely-Not-Lye/FullAutoWAV-to-BWAV), use this other thing
 
 # Usage
 
